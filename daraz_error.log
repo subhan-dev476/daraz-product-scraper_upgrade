@@ -1,0 +1,4 @@
+2026-04-21 20:49:50,712 - ERROR - Request Error: HTTPSConnectionPool(host='www.daraz.pk', port=443): Max retries exceeded with url: /catalog/?ajax=true&page=21&q=mobile (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.daraz.pk', port=443) at 0x276c459a210>, 'Connection to www.daraz.pk timed out. (connect timeout=5)'))
+2026-04-25 11:45:52,801 - INFO - Page 1 started
+2026-04-25 11:45:54,223 - INFO - Page 1 done | Total: 40
+2026-04-25 11:45:55,224 - INFO - Page 2 started
